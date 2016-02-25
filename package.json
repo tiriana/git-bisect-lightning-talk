@@ -1,0 +1,20 @@
+{
+  "name": "git-bisect-lightning-talk",
+  "version": "0.0.0",
+  "description": "git bisect lightning talks examples",
+  "main": "go.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.hogarthww.com:radomirwojtera/git-bisect-lightning-talk.git"
+  },
+  "author": "tiriana, Radomir Wojtera <radomir.wojtera@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "crazy-case": "0.0.1",
+    "pad": "^1.0.0"
+  }
+}
