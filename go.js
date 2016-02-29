@@ -5,4 +5,4 @@ function fail() {
     throw new Error('oh dear, oh dear...');
 }
 
-showRainbow(text, 10, 1000);
+showRainbow(text, 10, 1000, fail);
